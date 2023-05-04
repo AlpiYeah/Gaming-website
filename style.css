@@ -3,6 +3,22 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+}
 
+body{
+    overflow-x: hidden;
+}
 
+.main-width{
+    width: 1400px;
+    margin: 0 auto;
+    min-width: 95%;
+
+}
+
+.hero{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background: radial-gradient(#f9d349,20%,#d57e12);
 }
