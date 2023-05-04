@@ -172,3 +172,16 @@ nav ul li.btn:hover a{
     transition: 0.4s;
     color: white;
 }
+
+.bg-image{
+    position: absolute;
+    width: 100%;
+    height: 85%;
+    bottom: 0;
+    right: 0;
+    text-align: right;
+}
+
+.bg-image img{
+    height: 100%;
+}
